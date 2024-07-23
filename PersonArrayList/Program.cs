@@ -34,6 +34,7 @@ namespace PersonArrayList
                 Console.WriteLine(person.Name);
                 Console.WriteLine(person.Id);
             }
+            Console.WriteLine("Modification");
         }
     }
 }
